@@ -4,3 +4,6 @@ In this project I have done my best to clean up the code and make it more access
 
 Below is the link to my working application:
 https://robert-rousset.github.io/RobsWeek1Homework/.
+
+And a screenshot of the webpage:
+(./screenshot/Working-Aplication.png)
