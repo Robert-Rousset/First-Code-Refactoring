@@ -6,4 +6,4 @@ Below is the link to my working application:
 https://robert-rousset.github.io/RobsWeek1Homework/.
 
 And a screenshot of the webpage:
-![Couldn't quite fit the whole website into one screenshot though](./screenshot/Working-Aplication.png)
+![Couldn't quite fit the whole website into one screenshot though](./screenshot/Working-Application.png)
